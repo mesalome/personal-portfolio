@@ -173,6 +173,9 @@ body{
     color: var(--vintage-white);
     font-size: 25px;
   }
+  .social-site a:hover{
+    color: var(--dark-orange);
+  }
 
   #contacts{
     display: flex;
