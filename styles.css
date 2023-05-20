@@ -136,6 +136,14 @@ h2{
         var(--dark-orange) 100%
     );
 }
+#projects a:hover{
+    background: linear-gradient(
+        315deg,
+        var(--vintage-white) 0%,
+        var(--dark-orange) 50%,
+        var(--dark-orange) 100%
+    );
+}
 #projects p{
     color: var(--vintage-white);
     text-align: center;
