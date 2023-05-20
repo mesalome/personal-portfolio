@@ -140,7 +140,7 @@ h2{
     background: linear-gradient(
         315deg,
         var(--vintage-white) 0%,
-        var(--dark-orange) 50%,
+        var(--dark-orange) 60%,
         var(--dark-orange) 100%
     );
 }
